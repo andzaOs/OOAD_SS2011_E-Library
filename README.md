@@ -1,4 +1,4 @@
-# **Tema:** Biblioteka
+# Biblioteka
 
 **Oblast:** Objektno orijentirana analiza i dizajn (OOAD)
 
