@@ -1,6 +1,4 @@
-# etf-ooad-biblioteka-2011
-
-**Tema:** Biblioteka
+# **Tema:** Biblioteka
 
 **Oblast:** Objektno orijentirana analiza i dizajn (OOAD)
 
@@ -14,11 +12,9 @@
 
 **Godina:** 2011
 
+*Timski rad*
 
 **Video prezentacija aplikacije:** https://docs.google.com/leaf?id=0B296U9p3wCmMNDUyMTEyNGItNzAyNy00NjU4LTkzNGMtNDU2ZmYwNzFmZTU2&sort=name&layout=list&num=50
-
-**Dokumentacija (samo UML dijagrami i opis):** https://www.dropbox.com/s/zuzlyk2g3bw4m8r/OOAD.doc?dl=0
-
 
 ---
 
@@ -37,7 +33,7 @@ Cilj projekta je modernizirati Univerzitetsku biblioteku uvođenjem informacioni
 
 Informacioni sistem treba omogućiti evidenciju korisnika u elektronskom obliku; olakšati organizaciju same institucije korištenjem interfejsa koji omogućava automatsko pronalaženje sjedišta u čitaoni u sklopu biblioteke, te reducirati papirologiju korištenjem modernog software-a koji omogućava olakšanu registraciju korisnika, iznajmljivanje, odnosno pretraživanje i nabavku knjiga.
 
-Funkcionalnosti:
+Osobine:
 
 - korisnički računi: bibliotekar, garderobijer
 
