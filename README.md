@@ -12,7 +12,7 @@ Team work - group of 3 people
 
 **Programming language:** C#
 
-**Technologies:** MySql, SVN
+**Technologies:** MySql Workbench, SVN
 
 **IDE:** Visual Studio 2008
 
